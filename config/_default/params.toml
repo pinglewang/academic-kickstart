@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "Pingle.Wang@simon.rochester.edu"
+phone = "505-273-1067"
+address = "Carol Simon Hall, University of Rochester, Rochester, NY 14623"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday 10:00 to 13:00<br>
@@ -142,7 +142,7 @@ sharing = true
   #   3: Card
   #   4: Citation (publications only)
   post_view = 2
-  publication_view = 2
+  publication_view = 3
   talk_view = 2
 
 # Search.
