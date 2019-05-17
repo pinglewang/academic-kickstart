@@ -18,7 +18,7 @@ baseurl = "/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-140418255-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
