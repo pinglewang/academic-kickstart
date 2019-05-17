@@ -41,8 +41,9 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+ # 3. Momentum and Trading (with Ron Kaniel, Gideon Saar, Sheridan Titman)
 +++
 
 1. Investor preference to mutual fund performance: evidence from 11-K Filings (with Anh Tran)  
 2. Smart Money or Dumb Money: Evidence from Inflow/Outflow Sensitivity
-3. Momentum and Trading (with Ron Kaniel, Gideon Saar, Sheridan Titman)
