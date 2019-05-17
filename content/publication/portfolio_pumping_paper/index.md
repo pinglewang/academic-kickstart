@@ -16,7 +16,7 @@ authors = ["admin"]
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-# publication_types = ["1"]
+publication_types = [3]
 
 # Publication name and optional abbreviated version.
 publication = ""
@@ -26,8 +26,8 @@ publication_short = ""
 abstract = "I document portfolio pumping at the fund family level, a strategy that non-star fund managers buy stocks held by star funds in the family to inflate their performance at quarter end. Star funds with high family pumping activities show strong evidence of inflated performance only after 2002, when the Securities and Exchange Commission increased regulation on portfolio pumping at the fund level. Stocks pumped by the strategy show strong reversals at the last trading day of the quarter. Non-star fund managers pumping for star funds receive substantially higher inflows in the future, which cannot be explained by fund characteristics."
 
 # Summary. An optional shortened abstract.
-summary = "I document portfolio pumping at the fund family level, a strategy that non-star fund managers buy stocks held by star funds in the family to inflate their performance at quarter end. Star funds with high family pumping activities show strong evidence of inflated performance only after 2002, when the Securities and Exchange Commission increased regulation on portfolio pumping at the fund level. Stocks pumped by the strategy show strong reversals at the last trading day of the quarter. Non-star fund managers pumping for star funds receive substantially higher inflows in the future, which cannot be explained by fund characteristics."
-
+summary = ""
+# SEC Fifth Annual Conference on Financial Market Regulation, AFA 2017(Philadelphia, Poster), FMA 2017(Boston), NFA 2017(Halifax).
 # Digital Object Identifier (DOI)
 doi = ""
 
@@ -36,7 +36,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Mutual Funds"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

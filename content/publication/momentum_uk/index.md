@@ -16,7 +16,7 @@ authors = ["Giulio Trigilia", "admin"]
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = []
+publication_types = [3]
 
 # Publication name and optional abbreviated version.
 publication = ""
@@ -36,7 +36,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Momentum","Asset Pricing"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

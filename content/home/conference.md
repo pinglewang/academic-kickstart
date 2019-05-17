@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
-title = "Work in Progress"
+title = "Conference Presentations"
 subtitle = ""
 
 [design]
@@ -43,6 +43,5 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Investor preference to mutual fund performance: evidence from 11-K Filings (with Anh Tran)  
-2. Smart Money or Dumb Money: Evidence from Inflow/Outflow Sensitivity
-3. Momentum and Trading (with Ron Kaniel, Gideon Saar, Sheridan Titman)
+1. [Portfolio Pumping in Mutual Fund Families](/files/portfolio_pumping.pdf)  
+  Presented at SEC Fifth Annual Conference on Financial Market Regulation, AFA 2017(Philadelphia, Poster), FMA 2017(Boston), NFA 2017(Halifax).

@@ -16,7 +16,7 @@ authors = ["admin"]
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = []
+publication_types = [3]
 
 # Publication name and optional abbreviated version.
 publication = ""
@@ -36,7 +36,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Investor Attention","Asset Pricing"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -72,7 +72,7 @@ links = [{name = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption = "Figure 1"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
