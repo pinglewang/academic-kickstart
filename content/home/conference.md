@@ -44,4 +44,4 @@ subtitle = ""
 +++
 
 1. [Portfolio Pumping in Mutual Fund Families](/files/portfolio_pumping.pdf)  
-  Presented at SEC Fifth Annual Conference on Financial Market Regulation, AFA 2017(Philadelphia, Poster), FMA 2017(Boston), NFA 2017(Halifax).
+  Presented at SEC Fifth Annual Conference on Financial Market Regulation, AFA 2018(Philadelphia, Poster), FMA 2017(Boston), NFA 2017(Halifax).
