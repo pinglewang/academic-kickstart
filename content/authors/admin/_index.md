@@ -66,6 +66,6 @@ user_groups:
 ---
 
 Pingle Wang is a Ph.D. candiate in Finance at Simon Business School, University of Rochester. His research interests include empirical asset pricing, mutual fund, and investor attention. 
-# He is available to be interviewed at AFA/AEA 2020.
+
 
 [His Job Market Paper can be downloaded here](/files/investor_attention.pdf). 
