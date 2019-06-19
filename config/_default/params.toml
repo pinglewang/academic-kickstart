@@ -137,7 +137,7 @@ sharing = true
   # Link the title of the publication to the publication
   links_title = false
   # Link the authors of the publication to the list of publication made by this author
-  links_authors = false
+  links_authors = true
 
 
 # Configuration of project pages.

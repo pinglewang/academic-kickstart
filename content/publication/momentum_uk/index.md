@@ -3,7 +3,8 @@ title = "Momentum, echo and predictability: Evidence from the London Stock Excha
 date = 2017-04-07T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Giulio Trigilia", "admin"]
+# authors = ["Giulio Trigilia", "admin"]
+authors = ["[Giulio Trigilia](https://sites.google.com/view/giulio-trigilia/home)","[Pingle Wang](/)"]
 
 # Publication type.
 # Legend:

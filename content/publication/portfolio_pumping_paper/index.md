@@ -3,7 +3,7 @@ title = "Portfolio Pumping in Mutual Fund Families"
 date = 2017-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin"]
+authors = ["[Pingle Wang](/)"]
 
 # Publication type.
 # Legend:

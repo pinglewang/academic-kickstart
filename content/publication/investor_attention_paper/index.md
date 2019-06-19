@@ -3,7 +3,7 @@ title = "Demand for Information and Stock Returns: Evidence from EDGAR"
 date = 2018-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin"]
+authors = ["[Pingle Wang](/)"]
 
 # Publication type.
 # Legend:
