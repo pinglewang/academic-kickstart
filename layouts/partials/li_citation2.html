@@ -5,15 +5,14 @@
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
   <span itemprop="author" class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" . }}-
+    {{ partial "page_metadata_authors" . }}
   </span>
-  <em>
+  ({{- .Date.Format "2006" -}}).
   {{ if site.Params.publications.links_title }} <!-- Create a link on the publication title -->
       <a href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</a>.
   {{ else }}
       <a itemprop="name">{{ .Title }}</a>.
   {{ end }}
-  </em>
   {{ if .Params.publication_short }}
   {{- .Params.publication_short | markdownify -}}.
   {{ else if .Params.publication }}
