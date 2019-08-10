@@ -1,6 +1,6 @@
 +++
-title = "Momentum, echo and predictability: Evidence from the London Stock Exchange (1820-1930)"
-date = 2017-04-07T00:00:00
+title = "Barking Up The Wrong Tree: Return Chasing in Mutual Funds"
+date = 2017-04-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 # authors = ["Anh Tran", "admin"]
