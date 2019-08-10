@@ -1,5 +1,5 @@
 +++
-title = "Momentum, echo and predictability: Evidence from the London Stock Exchange (1820-1930)"
+title = "Momentum, Echo and Predictability: Evidence from the London Stock Exchange (1820-1930)"
 date = 2017-04-07T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
