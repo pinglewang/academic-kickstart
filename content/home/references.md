@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "References"
 subtitle = ""
@@ -34,6 +34,9 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50px", "0", "50px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -43,22 +46,22 @@ subtitle = ""
  css_class = ""
 +++
 
-<span style="font-size:larger;font-family:serif;">[**Ron Kaniel**](http://rkaniel.simon.rochester.edu/)</span>    
-<span style="font-size:smaller;">
+<span style="font-size:30px;font-family:serif;">[**Ron Kaniel**](http://rkaniel.simon.rochester.edu/)</span>    
+<span style="font-size:20px;">
 Jay S. and Jeanne P. Benet Professor of Finance  
 Simon School of Business  
 University of Rochester  
 Email: [ron.kaniel@simon.rochester.edu](mailto:ron.kaniel@simon.rochester.edu)  
 </span>   
-<span style="font-size:larger;font-family:serif;">[**Alan Moreira**](https://sites.google.com/view/alanmoreira/)</span>    
-<span style="font-size:smaller;">
+<span style="font-size:30px;font-family:serif;">[**Alan Moreira**](https://sites.google.com/view/alanmoreira/)</span>    
+<span style="font-size:20px;">
 Assistant Professor of Finance  
 Simon School of Business  
 University of Rochester  
 Email: [alan.moreira@simon.rochester.edu](mailto:alan.moreira@simon.rochester.edu)  
 </span>   
-<span style="font-size:larger;font-family:serif;">[**Jerold B. Warner**](https://www.simon.rochester.edu/faculty-and-research/faculty-directory/faculty-profile/index.aspx?Username=jerry.warner)</span>    
-<span style="font-size:smaller;">
+<span style="font-size:30px;font-family:serif;">[**Jerold B. Warner**](https://www.simon.rochester.edu/faculty-and-research/faculty-directory/faculty-profile/index.aspx?Username=jerry.warner)</span>    
+<span style="font-size:20px;">
 Fred H. Gowen Professor of Finance  
 Simon School of Business  
 University of Rochester  
